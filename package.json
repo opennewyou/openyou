@@ -1,0 +1,14 @@
+{
+  "name": "915be71aad8b647d31e0059ec0254647",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "slot ถอนไม่อั้น แตกง่าย แตกบ่าย จ่ายเอะที่สุด",
+  "keywords": [
+    "สล็อตเว็บตรง แตกง่าย","สล็อตเว็บตรง ฝากถอน true wallet ไม่มีขั้นต่ำ","สล็อตเว็บตรง777"
+  ],
+  "repository": "https://github.com/opennewyou/openyou",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
