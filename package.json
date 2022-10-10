@@ -1,10 +1,12 @@
 {
   "name": "deeccdca30cf200d4ed2c86dbcfacbf9",
   "theme": "syntax",
-  "version": "1.0.243",
+  "version": "1.0.244",
   "description": "slot  เว็บที่ไม่ผ่านเอเย่นต์  เว็บเล่นพนันออนไลน์ เกมสล็อต",
   "keywords": [
-    "pg สล็อต","สล็อต ยืนยัน otp รับ เครดิต ฟรี 100","ทดลอง เล่น สล็อต โร ม่า ฟรี"
+    "pg สล็อต",
+    "สล็อต ยืนยัน otp รับ เครดิต ฟรี 100",
+    "ทดลอง เล่น สล็อต โร ม่า ฟรี"
   ],
   "repository": "https://github.com/opennewyou/openyou",
   "license": "MIT",
