@@ -1,10 +1,12 @@
 {
   "name": "4340a8e0bf69b63a6699308c7b66f4a0",
   "theme": "syntax",
-  "version": "1.0.333",
+  "version": "1.0.334",
   "description": "สล็อตออนไลน์ คืออะไร [สล็อตpgวอเลท](https://www.gamblerape.com/demogame/) ?",
   "keywords": [
-    "pgสล็อต","สล็อตpg","สล็อตxo168"
+    "pgสล็อต",
+    "สล็อตpg",
+    "สล็อตxo168"
   ],
   "repository": "https://github.com/opennewyou/openyou",
   "license": "MIT",
